@@ -19,6 +19,7 @@ the folder where you want your project to appear.
 6. Then launch Eclipse.
 7. From the File menu, Import, then "Existing project into workspace".
 8. Navigate to your edu-java-jsp project folder and click Open.
+9. you are good to go
 
 ## So, what's in this project?
 
